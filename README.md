@@ -10,9 +10,11 @@ CityScoop is an application that allows its users to consolidate information of 
 
 - [Installation](#Installation)
 - [Usage](#Usage)
+- [Link](#Link)
 - [Credits](#credits)
 - [license](#license)
 - [Badges](#Badges)
+- [Awards](#Awards)
 - [Contributing](#Contributing)
 - [Tests](#Tests)
             
