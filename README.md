@@ -37,9 +37,9 @@ cityScoop provides the user a means to make informed decisions on a move to move
 
 ## Link
 
-[link to deployed site](https://dyoder838.github.io/CityScoop/)
+[link to CityScoop](https://dyoder838.github.io/CityScoop/)
 
-![City Scoop](/assets/img/CityScoop.png?raw=true)
+![CityScoop](./assets/img/CityScoop.PNG?raw=true)
 
             
 ## Credits
