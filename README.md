@@ -20,8 +20,8 @@ CityScoop is an application that allows its users to consolidate information of 
             
             
 ## Installation
-Install Contributor Covenant by executing the following commands in command terminal: npm install -g covgen; covgen "<your_email_address>"
-There are no dependTo contribute to City Scoop, use jQuery and Materialize 
+
+To contribute to City Scoop, use jQuery and Materialize 
         
 
 ## Usage 
