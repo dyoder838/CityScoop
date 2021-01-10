@@ -62,8 +62,8 @@ cityScoop provides the user a means to make informed decisions on a move to move
 
 ## Badges
 
-![GitHub language count](https://img.shields.io/github/languages/count/dyoder838/dyoder838/CityScoop)
-![GitHub repo size](https://img.shields.io/github/repo-size/dyoder838/dyoder838/CityScoop)
+![GitHub language count](https://img.shields.io/github/languages/count/dyoder838/CityScoop)
+![GitHub repo size](https://img.shields.io/github/repo-size/dyoder838/CityScoop)
 
 ### Awards: 
 
