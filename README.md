@@ -22,7 +22,7 @@ Each of the statistics listed above recieves a general score out of 10, in relat
 cityScoop provides the user a means to make informed decisions on a move to move basis.
 
 ### Screenshot:
-![City Scoop](./assets/img/CityScoop.png)
+![City Scoop](/assets/img/CityScoop.png)
 
 ### Contributers:
   - Daniel Yoder - Git Master, Backend Development
